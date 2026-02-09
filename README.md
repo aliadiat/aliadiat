@@ -22,4 +22,4 @@ I'm a passionate tech enthusiast focused on **AI, Machine Learning, and Web Deve
 ## Contact Me
 Feel free to reach out if you want to collaborate or just say hi!  
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-adiat-73990939a)
