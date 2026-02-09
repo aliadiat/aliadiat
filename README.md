@@ -22,9 +22,6 @@ I'm a passionate tech enthusiast focused on **AI, Machine Learning, and Web Deve
 ## Contact Me
 Feel free to reach out if you want to collaborate or just say hi!  
 
-<a href="https://x.com/aliadiat_">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/X_Social_Logo_Black.png" width="30"/>
-</a>
-
+[![X](https://img.shields.io/badge/X-1DA1F2?logo=x-twitter&logoColor=white)](https://x.com/aliadiat_)
 [![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](https://www.reddit.com/u/ali_adiat/s/yuJauOc3Db)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-adiat-73990939a)
