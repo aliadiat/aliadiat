@@ -22,9 +22,5 @@ I'm a passionate tech enthusiast focused on **AI, Machine Learning, and Web Deve
 ## Contact Me
 Feel free to reach out if you want to collaborate or just say hi!  
 
-<a href="https://www.reddit.com/u/ali_adiat/s/yuJauOc3Db" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-       alt="GitHub Logo"
-       style="width:50px; height:50px;">
-</a>
+[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](https://www.reddit.com/u/ali_adiat/s/yuJauOc3Db)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-adiat-73990939a)
