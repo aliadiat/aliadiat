@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there,👋
+I'm Ali Adiat 
 
-<!--
-**aliadiat/aliadiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate tech enthusiast focused on **AI, Machine Learning, and Web Development**. I love building projects that solve real problems and learning new technologies along the way.
 
-Here are some ideas to get you started:
+## What I Do
+- Develop AI and Machine Learning models  
+- Build websites and web apps  
+- Explore new technologies and experiment with projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Python, C++, JavaScript, HTML/CSS  
+- **Technologies:** AI, Machine Learning, Web Development, APIs  
+- **Tools:** Git, GitHub, VS Code, Figma  
+
+## My Goals
+- Become an expert **AI Engineer**  
+- Build impactful projects that help people  
+- Keep learning and contributing to the tech community  
+
+## Contact Me
+Feel free to reach out if you want to collaborate or just say hi!  
+
+
